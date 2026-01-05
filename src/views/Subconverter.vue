@@ -332,10 +332,7 @@ export default {
           "自动判断客户端": "auto",
         },
         shortTypes: {
-          "v1.mk": "https://v1.mk/short",
-          "d1.mk": "https://d1.mk/short",
-          "dlj.tf": "https://dlj.tf/short",
-          "suo.yt": "https://suo.yt/short",
+          "short.guolon.qzz.io": "https://short.guolon.qzz.io/short"
         },
         customBackend: {
           "CM负载均衡后端【vless reality+hy1+hy2】": "https://subapi.cmliussss.net",
@@ -1310,3 +1307,4 @@ export default {
   }
 };
 </script>
+
